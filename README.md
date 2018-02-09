@@ -1,4 +1,6 @@
-# zujian
+# 一款基于vue的抽奖系统
+# 不依赖任何插件，请直接使用。
+# ^_^如果代码很对你胃口很到位就请点个星星把~
 
 > the custom component from liwenhao
 
